@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with "pics-react-app" repo
 
 This repository contains code for a web application that allows users to search for images related to a given term. The application features a search bar where users can enter their search term, and it returns a list of images related to that term.
 
